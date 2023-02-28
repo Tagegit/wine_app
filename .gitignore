@@ -6,3 +6,4 @@
 *.nar
 hs_err_pid*
 .vscode/
+bin
